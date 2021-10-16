@@ -157,6 +157,16 @@
       "required": false
       
     },
+    "BOT_TOKEN": {
+      "description": "bot token if you want inline help menu",
+      "value" : "",
+      "required": false
+    },
+     "INLINE_MODE": {
+      "description": "Inline Mode if you want inline help menu",
+      "value" : "false",
+      "required": false
+    },
     "SUDO_USERS": {
       "description": "give sudo user's id , he can controll your javes, you can add multiple sudo users id by space , sudo users cant access your privacy untill you on full_sudo",
       "value": "",
